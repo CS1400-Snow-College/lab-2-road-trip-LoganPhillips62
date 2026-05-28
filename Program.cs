@@ -86,8 +86,6 @@ class RoadTripSummary
         Console.WriteLine("{0,-30}{1}", "Average song length (min):", avgSongLengthMin.ToString("F2", ci));
         Console.WriteLine("{0,-30}{1}", "Number of songs needed:", songsNeeded);
 
-        Console.WriteLine();
-        Console.WriteLine("Press any key to exit...");
-        Console.ReadKey();
+    
     }
 }
