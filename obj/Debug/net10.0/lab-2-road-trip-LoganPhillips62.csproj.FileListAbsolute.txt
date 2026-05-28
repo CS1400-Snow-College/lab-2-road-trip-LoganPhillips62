@@ -1,0 +1,15 @@
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\bin\Debug\net10.0\lab-2-road-trip-LoganPhillips62.exe
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\bin\Debug\net10.0\lab-2-road-trip-LoganPhillips62.deps.json
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\bin\Debug\net10.0\lab-2-road-trip-LoganPhillips62.runtimeconfig.json
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\bin\Debug\net10.0\lab-2-road-trip-LoganPhillips62.dll
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\bin\Debug\net10.0\lab-2-road-trip-LoganPhillips62.pdb
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.AssemblyInfoInputs.cache
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.AssemblyInfo.cs
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.csproj.CoreCompileInputs.cache
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.sourcelink.json
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.dll
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\refint\lab-2-road-trip-LoganPhillips62.dll
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.pdb
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\lab-2-road-trip-LoganPhillips62.genruntimeconfig.cache
+C:\Users\phill\Code\lab-2-road-trip-LoganPhillips62\obj\Debug\net10.0\ref\lab-2-road-trip-LoganPhillips62.dll
